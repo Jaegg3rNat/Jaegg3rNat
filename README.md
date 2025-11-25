@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :penguin: About Me:
 Researcher Fellow building some random codes.
 
 
@@ -7,7 +7,7 @@ Researcher Fellow building some random codes.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jaegg3rNat&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jaegg3rNat&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaegg3rNat&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
