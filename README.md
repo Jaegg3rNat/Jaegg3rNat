@@ -1,5 +1,5 @@
 # :penguin: About Me:
-Researcher Fellow building some random codes.
+Researcher Fellow in Complex Systems building some random codes.
 
 
 ## 🌐 Socials:
